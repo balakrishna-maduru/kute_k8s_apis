@@ -1,4 +1,4 @@
-module example/web-service-gin
+module kute_k8s_apis
 
 go 1.21.6
 
